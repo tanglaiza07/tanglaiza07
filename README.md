@@ -4,7 +4,7 @@ I'm building this GitHub to share my daily coding journey — one project, chall
 
 - 💻 Currently learning: HTML, CSS, Javascript, Python & Web Development
 - 🎯 Goal: Upload code every day for 100 days
-- 📁 Main Repo: [Daily-Journal](https://github.com/tanglaiza07/Code-Journal) 
+- 📁 Main Repo: [Code-Journal](https://github.com/tanglaiza07/Code-Journal) 
 
 Let's connect and grow together!
 
